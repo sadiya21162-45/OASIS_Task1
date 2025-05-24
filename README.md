@@ -45,4 +45,8 @@ portfolio/
 └── README.md # This file
 
 
+## Setup Instructions
+1. Clone the repository:
+
+http://127.0.0.1:5500/my-portfolio/index.html
 
